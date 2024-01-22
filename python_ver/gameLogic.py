@@ -5,7 +5,7 @@ person = Player(name='crack pot', health=100, weapon=1, armour=0)
 
 
 
-print(person.location)
+
 
 for n in range(10):
     person.move_forward()
