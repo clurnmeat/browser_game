@@ -15,8 +15,8 @@ class Player:
     
     
     def movement(self):
-        self.y =random.randint(0,3)
-        self.x = random.randint(0,3)
+        self.y =random.randint(0,6)
+        self.x = random.randint(0,6)
         self.location = [self.x, self.y]  
         
     
