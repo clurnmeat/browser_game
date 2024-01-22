@@ -1,7 +1,7 @@
 from controllers.user import Player
 import random
 
-person = Player(name='crack pot', health=100, weapon=1, armour=0)
+person = Player(name='cool guy', health=100, weapon=1, armour=0)
 
 
 
