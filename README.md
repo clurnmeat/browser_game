@@ -44,7 +44,7 @@ Mission Statement:
 
 ## Documentation
 
-[Documentation](https://linktodocumentation)
+[Documentation]
 
 
 ## Acknowledgements
