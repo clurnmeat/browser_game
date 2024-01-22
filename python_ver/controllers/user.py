@@ -1,3 +1,5 @@
+import random
+
 class Player:
     def __init__(self, name, health, weapon, armour):
         self.name = name
@@ -9,22 +11,13 @@ class Player:
         self.health = health
         self.weapon = weapon
         self.armour = armour
-        
-    def move_forward(self):
-        self.y += 1
-        self.location = [self.x, self.y]
     
-    def move_left(self):
-        self.x += 1
-        self.location = [self.x, self.y]
-        
-    def move_right(self):
-        self.x += 1
-        self.location = [self.x, self.y]
     
-    def move_back(self):
-        self.y -= 1
-        self.location = [self.x, self.y]   
+    
+    def movement(self):
+        self.y =random.randint(0,3)
+        self.x = random.randint(0,3)
+        self.location = [self.x, self.y]  
         
     
             

@@ -8,7 +8,10 @@ Building framework for browser game in Javascript, and client game with Tkinter 
 Plan:
 
     Map randomly generated 
-        (Math.floor(x) or something similar). 
+        (Math.floor(x) or something similar).
+
+        Python version:
+         
 
     Random item finding.
         Item ratings 1 - 3.
