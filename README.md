@@ -17,7 +17,7 @@ Plan:
     
     Player Detail:
         health: 
-        sword: 
+        weapon: 
         armour:
         movement commands: forward, turn right, turn left
 
