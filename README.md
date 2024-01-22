@@ -7,17 +7,18 @@ Building framework for browser game in Javascript, and client game with Tkinter 
 
 Plan:
 
-    Basic 6x6 block screen to show a map. Text box beneath that to input commands.
-
     Map randomly generated 
-        (Math.floor(x) or something similar). 
+        (Math.floor(x) or something similar).
+
+        Python version:
+         
 
     Random item finding.
         Item ratings 1 - 3.
     
     Player Detail:
         health: 
-        sword: 
+        weapon: 
         armour:
         movement commands: forward, turn right, turn left
 
