@@ -20,5 +20,7 @@ class Player:
         self.location = [self.x, self.y]  
         
         
+        
+        
     
             
