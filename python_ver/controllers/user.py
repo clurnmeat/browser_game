@@ -19,5 +19,6 @@ class Player:
         self.x = random.randint(0,6)
         self.location = [self.x, self.y]  
         
+        
     
             
