@@ -10,7 +10,7 @@ window.config(padx=10, pady=10, bg="black")
 
 
 gameMap = Canvas()
-gameMap.config(bg='black')
+gameMap.config(bg='black', )
 gameMap.grid(row=0, column=1)
 
 player = Player(name='cool guy', health=100, weapon=1, armour=0)
