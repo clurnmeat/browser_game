@@ -1,5 +1,5 @@
 
-# Browser Adventure Game
+# Infinite Browser Adventure Game
 A text decision based game inspired by the early 90's MS-DOS games. 
 
 
